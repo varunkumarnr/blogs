@@ -20,12 +20,42 @@ So, if an average human dreams for 2 hours a day and we assume that a person liv
 
 Numerous scientific experiments have been conducted in an attempt to understand the purpose of dreaming. Below are some common observations from many of these experiments:
 
-1. Humans tend to dream during what is known as the REM (Rapid Eye Movement) phase of their sleep.
+1. Humans have three phases of sleep: Light sleep, Deep Sleep, and REM sleep. During REM sleep is when humans dream the most.
 2. During this REM phase, the human brain exhibits a level of consciousness similar to when the individual is awake.
 3. Heart rate and breathing patterns during this phase are irregular.
 
-![Phases of Sleep](images/Dream_Phases.jpg)
+<p align="center">
+  <img src="https://github.com/varunkumarnr/blogs/blob/ceeaac408778b047a783670e16c64e132ac04fd6/images/Dream_Phases.jpg?raw=true" alt="Phases of sleep" style="max-width:300px;" />
+  <br>
+  <em>Phases of sleep</em>
+</p>
 
-While, the above observation shows complex behaviour of the dreams. They still fail to explain the purpose of the dreams. There are many theories that have evaloved over the years to explain the reason we dream:
+While, the above observation shows complex behaviour of the dreams. They still fail to explain the purpose of the dreams. There are many theories that have evaloved over the years to explain the reason we dream. Some of these include:
 
-1. Memory consolidation: During Dreams, brain tries to make
+1. Memory consolidation: During dreams, the brain tries to make core memories of the things you did that day. For example, last Tuesday, I played video games with friends and the following night I had a dream of playing the same game, but people were slightly different. I also remember when I was learning the guitar (which I learned for a total of 2 days), I had a dream of playing the guitar. So our brain replays the event to build it as a long-term memory. This is also similar to a computer; for example, consider a chess AI that plays chess against itself to improve itself. However, in my case, I don't think I have improved in either of the skills mentioned.
+
+2. Treat readiness: As we know that our ancestors were hunters and gathers and had to go into dangerous places to get food and provide there family. So according to this theory dreams are something that will prepare us for this dangreous situation. This would also explain about why I got the dream of wolf chasing yesterday.
+
+3. Problem Solving: Dreams may act as cognitive playgrounds, where our minds explore and test potential solutions to real-life issues. Many times, I've discovered answers to coding errors or better approaches to problems I've faced that day. This theory also elucidates perhaps the most significant dream ever: August Kekulé's dream that led to the discovery of the benzene structure.
+
+4. Social practice: Dreams might simulate and train us in social, relational, and emotional scenarios, contributing to our social and emotional development. They help refine our responses to various situations. I can't relate to this section because I am perfect in all social situations and don't need to simulate them😎.
+
+## My thougts on dreams.
+
+##### **why do we dream?**
+
+I actually believe in most of the above-mentioned theories and will add my own perspective to continue building on these ideas. I believe dreams are a result of human and animal evolution. However, the question remains: why did we evolve to seemingly waste our consciousness and energy during our resting phase? To answer this question, one must not only look at ourselves but also zoom out and consider how our Earth behaves. The reason why we dream could be connected to Earth's rotation. If you're not aware, Earth rotates on its axis every 24 hours, resulting in each location experiencing 12 hours of daylight and approximately 12 hours of darkness, with complete darkness typically lasting 6 to 8 hours.
+
+Now, let's consider a blind man or woman. Many researchers have shown that blind individuals often experience enhanced non-visual senses and a weaker visual sense. We know that the Visual Cortex is responsible for our vision, and interestingly, this is also the reason behind our dreams. This might explain why dreams predominantly occur during the Rapid Eye Movement (REM) phase of sleep. In a blind person, the Visual Cortex becomes less active for visual processing and instead is repurposed to enhance other sensory functions.
+
+In my perspective, being in darkness for around 8 hours during sleep practically nullifies the use of the visual cortex. At least for our ancestors, this diminished use could lead to a weakening of the visual cortex over time, potentially resulting in poor vision. Evolution hinges on survival of the fittest, and having poor vision contradicts this principle.
+
+##### **Do dreams have meaning?**
+
+This is a controversial topic, and personally, I believe that dreams have meanings. I'm aware that this perspective goes against common scientific belief. Upon delving into this subject, I discovered that ancient Egyptians were so fixated on the idea that dreams held significance that they maintained books dedicated to recording dreams. Whenever someone had an unusual dream, they would approach a priest or an equivalent individual responsible for interpreting dream books. The priest would then consult the book and provide an interpretation, indicating whether the dream was a harbinger of fortune, a curse by the gods, or something in between. This adds another long list of resons why I hope I should have been born during ancient egypt times🥺.
+
+> Imagine a man during ancient egyptian times comes to you and says he had a dream that his eyes were gouged by an eagle in his dream, and you look at your dream book of records and say this is a divine message from the gods that he will have an unholy amount of good luck in the coming days. Or another man comes and says the girl that he likes came to him in his dream and asked him to marry her, and you say this is a metaphorical message from the gods to never think of her.
+
+Coming back to why I believe dreams have meaning, it's because of something personal I've experienced multiple times. I would have these recurring dreams of losing someone, and weeks later, that exact thing would happen in real life. This has repeated multiple times. Additionally, after losing the person, I've dreamt of them visiting and inquiring about things, and it felt incredibly real. I understand this could be total coincidence and can't be scientifically explained, but some part of me still believes that dreams have meaning. On the contrary, there have been multiple times when I've had similar dreams of losing people, but fortunately, those didn't come true. I think these dreams were meant to prepare me for losses, which also aligns with the 'Threat Readiness' theory mentioned earlier. Another person shared a similar experience with me, but hey, it's only a sample size of two people.
+
+##### **Can you interpt are control your dreams?**
