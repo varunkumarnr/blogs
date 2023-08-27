@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Dream"
+categories: philosophy
+permalink: "/:categories/:title"
+author:
+  - Varun Kumar
+meta: "Springfield"
+---
+
+## Introduction
+
+Do you ever wonder how humans, just a century ago, believed the universe comprised solely our solar system? Science has advanced exponentially, unveiling the vast expanse of the observable universe. We've meticulously observed and studied millions of stars and galaxies, determined the universe's age, and accurately forecast the impending merger with our neighboring Andromeda galaxy. We've calculated the speed at which planets distant from us are receding. We've foreseen our destiny—our demise in 5 billion years when the sun extinguishes. We're even delving into the possibility of parallel universes and multiverses. We've unraveled countless cosmic mysteries and secrets, spanning billions of kilometers, Yet, with all these advancements and scientific progress, here I am, still pondering why I was being chased by bloodthirsty wolves just last night.
+
+#### What do we know about dreams?
+
+**Defination**: A dream is a succession of images, ideas, emotions, and sensations that usually occur involuntarily in the mind during certain stages of sleep (Source: Wikipedia). It is also observed that on average, humans dream for 2 hours each day, with each dream lasting from 5 to 20 minutes.
+
+So, if an average human dreams for 2 hours a day and we assume that a person lives for 80 years, they would end up spending 6.67 years or 2,433 days dreaming. Given that dreaming constitutes such a significant portion of human life and experience, it's puzzling that we still lack a comprehensive explanation for why we dream.
+
+Numerous scientific experiments have been conducted in an attempt to understand the purpose of dreaming. Below are some common observations from many of these experiments:
+
+1. Humans tend to dream during what is known as the REM (Rapid Eye Movement) phase of their sleep.
+2. During this REM phase, the human brain exhibits a level of consciousness similar to when the individual is awake.
+3. Heart rate and breathing patterns during this phase are irregular.
+
+![Phases of Sleep](images/Dream_Phases.jpg)
+
+While, the above observation shows complex behaviour of the dreams. They still fail to explain the purpose of the dreams. There are many theories that have evaloved over the years to explain the reason we dream:
+
+1. Memory consolidation: During Dreams, brain tries to make
