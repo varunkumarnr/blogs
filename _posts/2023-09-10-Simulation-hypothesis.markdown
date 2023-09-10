@@ -68,9 +68,11 @@ Each of these procedures or rules can be explained using mathematics. Many scien
 
 Our universe seems to have its own set of rules, dictating what we can and cannot do, and only allowing us to explore specific points in space. It's as if we're in a strict household, bound by rules with limited freedom. In my view, if our universe were entirely natural, we should be able to do whatever we want. For example, we understand time as our fourth dimension (although it might be an illusion), but going backward in time appears impossible. Additionally, many galaxies are moving away from us faster than the speed of light, making it impossible for us to reach them. We are also aware of only a portion of the complete universe because the light from distant regions has not yet reached us. If our existence is a natural outcome, shouldn't that imply the existence of other intelligent species formed in a similar manner? Yet, we have never encountered any. Our universe is build on sets of this rules.
 
-## Can we ever find out if we are actualy in simulation?
+## Now that you know your in simulation what next?
 
-Short answer no, we will never able to know if we actually in simuation as there is no way for outside information to reach us. Even if somehow we somehow figure out it would be very easy for our creators to remove it from our memory. This also mean we will never able to prove or disprove the simulation hypothesis.
+First, we must try to uncover the purpose for which our creators have invested resources to create both us and the universe we inhabit. What could this purpose be? Is it for entertainment? I don't think so, we are boring AF. Is it for experimentation? Perhaps, but then why create an entire universe when a simpler setup for experimentation would suffice?
+
+One possibility is that our goal is to create another simulation, continuing the simulation cycle. Therefore, let's go out learn something useful so we can reach our goal before our creators decide we are hopeless and shut down the simulation.
 
 ## Conclusion
 
