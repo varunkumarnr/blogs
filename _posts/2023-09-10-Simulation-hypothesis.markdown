@@ -72,6 +72,6 @@ Our universe seems to have its own set of rules, dictating what we can and canno
 
 Short answer no, we will never able to know if we actually in simuation as there is no way for outside information to reach us. Even if somehow we somehow figure out it would be very easy for our creators to remove it from our memory. This also mean we will never able to prove or disprove the simulaation hypothesis.
 
-## Conclustion
+## Conclusion
 
 **We are just lab rats and there is nothing we can do about it.**
