@@ -72,7 +72,7 @@ Our universe seems to have its own set of rules, dictating what we can and canno
 
 First, we must try to uncover the purpose for which our creators have invested resources to create both us and the universe we inhabit. What could this purpose be? Is it for entertainment? I don't think so, we are boring AF. Is it for experimentation? Perhaps, but then why create an entire universe when a simpler setup for experimentation would suffice?
 
-One possibility is that our goal is to create another simulation, continuing the simulation cycle. Therefore, let's go out learn something useful so we can reach our goal before our creators decide we are hopeless and shut down the simulation.
+One possibility is that our goal is to create another simulation, continuing the simulation cycle. Therefore, go out learn something useful so we can reach our goal before our creators decide we are hopeless and shut down the simulation.
 
 ## Conclusion
 
