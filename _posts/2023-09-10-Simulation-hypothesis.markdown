@@ -55,6 +55,7 @@ As for the third question, is it possible to construct a world indistinguishable
 ## What are some things we can see in our would to say we are in simulation?
 
 **Presence of Constants**:
+
 Take a moment to look around, and you'll notice that our world is filled with mathematical constants. It's almost as if someone meticulously placed these values after extensive research. For example, consider the speed of light, which stands at 299,792,458 meters per second. It dictates that nothing can surpass this speed. Could it be that this constant was set precisely to optimize computational processes? What if Going faster than this speed might lead loading screen, as the computational abilities of our creators might not be sufficient to render at such high speeds.
 Now, let's explore the other end of the spectrum: Planck's length, a distance beyond which two objects cannot be distinguished or measured. As we look around, our reality is structured with thousands of such constants, including the Gravitational Constant, Boltzmann's Constant, Fine-Structure Constant, and more, all finely tuned to make our existence possible. The question that naturally arises is, who fine-tuned these constants? Is it merely a coincidence? Scientifically, this fine-tuning is explained in the multiverse theory, which posits the existence of all possible universes with various sets of constants. We happen to inhabit one of these finely tuned universes. However, it's worth noting that the multiverse theory, like many others, lacks concrete scientific proof. Saying it is just a coincidence that we live in such a finely tuned universe is like trying to hit a target in Mars bullseye from your home on earth it outrageous claim.
 
@@ -64,15 +65,22 @@ Our universe operates procedurally, which means it can be thought of as followin
 
 Each of these procedures or rules can be explained using mathematics. Many scientists argue that mathematics is the universal language of the universe. Interestingly, computers are particularly good at handling mathematical calculations compared to humans. It's remarkable how our universe seems to follow mathematical patterns so perfectly. Some scientists even believe there might be a single formula capable of explaining everything in the universe, just waiting to be discovered. When we consider how mathematically precise our universe is, the idea that this one formula emerged by pure coincidence seems quite unusual.
 
-**Our Universe is bounded by rules?**
+**We are imperfect**
+
+Look around you; there is so much suffering, injustice, desire, and cruelty in the world. According to me, there is no way a world built by a divine being should witness a child's death before it is even born or a person suffer from blindness throughout their life,where third-party vendors often reap more profits from crops than the actual farmers who worked tirelessly to cultivate them. This is not the world that should result from something constructed with the goal of spiritual enlightenment.
+It seems to me that the world is not constructed on a foundation of good morals. Good people are not always rewarded, and bad people frequently go unpunished. This does not align with a world built on moral principles. This is the primary reason why I struggle to belive our world as being created by a divine being with the ultimate goal of attaining moksha and enlightenment. Just think about it – how does the world we observe around us align with the teachings in our Vedas?
+
+An imperfect world is entirely possible in the realm of simulation when the ultimate goal is not enlightenment but something else. We have seen how our world could be procedurally generated with a set of predefined parameters or constants. There is a lot of room for randomness in a world that is procedurally generated. All the imbalances and imperfections could be the result of small randomness in our simulation.
+
+**Our Universe is bounded by rules**
 
 Our universe seems to have its own set of rules, dictating what we can and cannot do, and only allowing us to explore specific points in space. It's as if we're in a strict household, bound by rules with limited freedom. In my view, if our universe were entirely natural, we should be able to do whatever we want. For example, we understand time as our fourth dimension (although it might be an illusion), but going backward in time appears impossible. Additionally, many galaxies are moving away from us faster than the speed of light, making it impossible for us to reach them. We are also aware of only a portion of the complete universe because the light from distant regions has not yet reached us. If our existence is a natural outcome, shouldn't that imply the existence of other intelligent species formed in a similar manner? Yet, we have never encountered any. Our universe is build on sets of this rules.
 
 ## Now that you know your in simulation what next?
 
-First, we must try to uncover the purpose for which our creators have invested resources to create both us and the universe we inhabit. What could this purpose be? Is it for entertainment? I don't think so, we are boring AF. Is it for experimentation? Perhaps, but then why create an entire universe when a simpler setup for experimentation would suffice?
+First, we must try to uncover the purpose for which our creators have invested resources to create both us and the universe we inhabit. What could this purpose be? Is it for entertainment? I don't think so, we are boring AF. Is it for experimentation? Perhaps, but then why create an entire universe when a simpler setup for experimentation would suffice? Maybe they just want to study their universe their and beginning by simulating a similar universe?
 
-One possibility is that our goal is to create another simulation, continuing the simulation cycle. Therefore, go out learn something useful so we can reach our goal before our creators decide we are hopeless and shut down the simulation.
+Whatever the reason may be, we know one goal we must attain to validate the simulation hypothesis: to create our own version and keep the cycle running. Therefore, go out learn something useful so we can reach our goal before our creators decide we are hopeless and shut down the simulation.
 
 ## Conclusion
 
