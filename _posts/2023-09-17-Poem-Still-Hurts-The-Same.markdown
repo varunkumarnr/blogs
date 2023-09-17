@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poem: still hurts the same"
+title: "Poem: Hurts the same"
 categories: Scientific
 permalink: "/:categories/:title"
 author:
