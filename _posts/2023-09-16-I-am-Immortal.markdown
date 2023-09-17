@@ -24,7 +24,7 @@ So, what do you think will be the pattern on the screen? Any sane human like me 
 
 ![1.2 What you think will happen](../images/doubleslit_particle.png)
 
-If you thought the same thing, you're wrong. What you actually observe is something like the pattern below. You get an interference pattern as if a photon/light is a wave. So, that's it, right? Light is a wave and not a particle.
+If you thought the same thing, you're wrong. What you actually observe is something like the pattern below. You get an interference pattern as if a photon/light is a wave(Differnent colors representing different wavelength). So, that's it, right? Light is a wave and not a particle.
 
 ![1.3 Actual Result](../images/doubleslit_actual.png)
 
