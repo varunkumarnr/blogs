@@ -28,7 +28,7 @@ Your angelic voice is now distinct,
 your everyday messages are now just memories,
 been a year but **still hurts the same**, now I don't have your shoulder to cry upon.
 
-I know you have moved on with another man,
+I know you have moved on with someone new,
 my friends tell me I should do the same,
 Little do they know, that i still have a part of you,
 How did you kill the part of me?
