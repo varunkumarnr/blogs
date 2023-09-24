@@ -9,7 +9,7 @@ meta: "Springfield"
 ---
 
 We had books filled with the stories of our future,
-you burned them before we can even start a chapter.
+You burned them before we can even start a chapter.
 Our plans were grand, ambitious but they were always together,
 How can I accomplish them without your arm on my shoulder.
 
@@ -25,10 +25,10 @@ I thought I just found an angel.
 
 The same face that put a smile, now made my breathe weak,
 Your angelic voice is now distinct,
-your everyday messages are now just memories,
+Your everyday messages are now just memories,
 been a year but **still hurts the same**, now I don't have your shoulder to cry upon.
 
 I know you have moved on with someone new,
-my friends tell me I should do the same,
+My friends tell me I should do the same,
 Little do they know, that i still have a part of you,
 How did you kill the part of me?
