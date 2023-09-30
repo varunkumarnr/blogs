@@ -26,7 +26,7 @@ I thought I just found an angel. <br>
 The same face that put a smile, now made my breathe weak, <br>
 Your angelic voice is now distinct, <br>
 Your everyday messages are now just memories, <br>
-been a year but **still hurts the same**, now I don't have your shoulder to cry upon. <br>
+Been a year but **still hurts the same**, now I don't have your shoulder to cry upon. <br>
 
 I know you have moved on with someone new, <br>
 My friends tell me I should do the same, <br>
