@@ -1,52 +1,104 @@
-# Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+# This file contains configuration flags to customize your site
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
-title: Journey to Singularity
-# email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Discovering the purpose of life
-baseurl: "/blogs" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username: varunkumarnr
+# Name of your site (displayed in the header)
+name: Journey to Singularity
 
-# Build settings
-theme: minima
+# Short bio or description (displayed in the header)
+description: Discovering the purpose of life
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: data:image/png;base64,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
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: varunkumarnr
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: #
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+# layout: default
+# comments: true
+
+table_of_contents_header: "Jump to:"
+# post_end_promo: <i><b>Enjoyed this article? You'll like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", a weeklyish newsletter of articles & found media!</b></i>
+
+# giscus_repo: varunkumarnr/blogs
+# giscus_repo_id: R_kgDOKI8VLw
+# giscus_category: Announcements
+# giscus_category_id: DIC_kwDOKI8VL84CZwnZ
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: blogs-boj1trkitr
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: G-5ZSSE9E3QN
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url:
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: "/blogs"
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+# permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: "highlight"
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+  - jekyll-seo-tag
+
 plugins:
-  - jekyll-feed
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate: 10
+paginate_path: /page/:num/
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

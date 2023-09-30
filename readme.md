@@ -1,3 +1,3 @@
 ## blogs
 
-#### bundle exec jekyll serve --livereload
+#### jekyll serve --livereload
