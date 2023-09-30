@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: publications
 title: "Simulation hypothesis, The answer to why?"
 categories: philosophy
-permalink: "/:categories/:title"
+permalink: "/:title"
+collection: publications
 author:
   - Varun Kumar
 meta: "Springfield"

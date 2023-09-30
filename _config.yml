@@ -58,6 +58,14 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/blogs"
 
+collections:
+  publications:
+    output: true
+    permalink: publications/:title
+  poetry:
+    output: true
+    permalink: /poetry/:title
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #

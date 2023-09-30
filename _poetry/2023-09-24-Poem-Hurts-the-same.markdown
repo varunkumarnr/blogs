@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: poetry
 title: "Poem: Still hurts the same"
 categories: Poetry
-permalink: "/:categories/:title"
+permalink: "/:title"
+collection: poetry
 author:
   - Varun Kumar
 meta: "Springfield"

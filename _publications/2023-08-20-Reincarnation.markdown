@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: publications
 title: "Reincaranation"
 categories: philosophy
-permalink: "/:categories/:title"
+permalink: "/:title"
+collection: publications
 author:
   - Varun Kumar
 meta: "Springfield"

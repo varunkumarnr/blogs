@@ -1,0 +1,18 @@
+---
+layout: default
+title: Poetry
+permalink: /poetry/
+---
+
+<div class="poems">
+  {% assign reversed_posts = site.poetry | reverse %}
+  {% for poem in reversed_posts %}
+    <article class="poem">
+      <h1><a href="{{ site.baseurl }}{{ poem.url }}">{{ poem.title }}</a></h1>
+      <div class="entry">
+        {{ poem.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ poem.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>

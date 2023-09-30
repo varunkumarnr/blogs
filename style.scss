@@ -29,6 +29,11 @@ body {
   padding: 0 10px;
   width: 100%;
 }
+.home_title{
+  font-size: 14px;
+  padding:0;
+  margin: 0;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -248,17 +253,27 @@ nav {
 // .main
 //
 
-.posts > .post {
+
+.blogs > .blog {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post:last-child {
+.poems > .poem {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
+}
+.blogs > .blog:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
 
-.post {
+.poems > .poem:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.blog {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
@@ -278,6 +293,25 @@ nav {
   }
 }
 
+.poem {
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+}
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;

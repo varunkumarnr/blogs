@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: publications
 title: "I am Immortal"
 categories: Scientific
-permalink: "/:categories/:title"
+permalink: "/:title"
+collection: publications
 author:
   - Varun Kumar
 meta: "Springfield"

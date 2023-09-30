@@ -1,18 +1,21 @@
 ---
 layout: default
+title: Blogs
+permalink: /
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="home">
+  <h2> Latest Blogs <h2>
+  {% assign reversed_posts = site.publications | reverse %}
+  {% for post in reversed_posts %}
+      <p class="home_title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+  {% endfor %}
+</div>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+<div class="home">
+  <h2> Latest Poems <h2>
+  {% assign reversed_posts = site.poetry | reverse %}
+  {% for poem in reversed_posts %}
+      <p class="home_title"><a href="{{ site.baseurl }}{{ poem.url }}">{{ poem.title }}</a></p>
   {% endfor %}
 </div>

@@ -1,0 +1,18 @@
+---
+layout: default
+title: Blogs
+permalink: /publications
+---
+
+<div class="blogs">
+  {% assign reversed_posts = site.publications | reverse %}
+  {% for post in reversed_posts %}
+    <article class="blog">
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
