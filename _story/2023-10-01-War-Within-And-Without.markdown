@@ -6,7 +6,7 @@ categories: story
 permalink: "/:categories/:title"
 collection: story
 color: "white"
-image: https://images.unsplash.com/photo-1503516459261-40c66117780a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvdXBsZXxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60
+image: https://github.com/varunkumarnr/blogs/blob/af5c7cdb2a5352fbaeeda7ed6f669a2973e009d4/images/War_within_and_witout.jpg
 author:
   - Varun Kumar
 meta: "Springfield"

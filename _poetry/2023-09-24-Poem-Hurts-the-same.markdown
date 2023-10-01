@@ -2,7 +2,7 @@
 layout: poetry
 title: "Still hurts the same"
 categories: Poetry
-image: images/Still_Hurts_same.jpg
+image: https://github.com/varunkumarnr/blogs/blob/af5c7cdb2a5352fbaeeda7ed6f669a2973e009d4/images/Still_Hurts_same.jpg
 permalink: "/:categories/:title"
 collection: poetry
 author:
