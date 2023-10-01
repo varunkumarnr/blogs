@@ -4,7 +4,7 @@ layout: page
 
 <article class="blogs">
   <div class="author">
-    -{{ page.author }}
+     -{{ page.author }}
   </div>
 
   <div class="entry">
@@ -15,5 +15,22 @@ layout: page
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
+  {% if site.giscus_repo != blank? %}
+    <script src="https://giscus.app/client.js"
+      data-repo="{{ site.giscus_repo }}"
+      data-repo-id="{{ site.giscus_repo_id }}"
+      data-category="{{ site.giscus_category }}"
+      data-category-id="{{ site.giscus_category_id }}"
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="bottom"
+      data-theme="preferred_color_scheme"
+      data-lang="en"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async>
+    </script>
+  {% endif %}
 </article>

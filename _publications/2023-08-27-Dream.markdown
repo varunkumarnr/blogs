@@ -2,7 +2,7 @@
 layout: publications
 title: "Dream"
 categories: philosophy
-permalink: "/:title"
+permalink: "/:categories/:title"
 collection: publications
 author:
   - Varun Kumar

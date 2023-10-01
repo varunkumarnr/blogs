@@ -2,7 +2,7 @@
 layout: poetry
 title: "Poem: Still hurts the same"
 categories: Poetry
-permalink: "/:title"
+permalink: "/:categories/:title"
 collection: poetry
 author:
   - Varun Kumar

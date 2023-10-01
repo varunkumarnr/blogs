@@ -19,3 +19,11 @@ permalink: /
       <p class="home_title"><a href="{{ site.baseurl }}{{ poem.url }}">{{ poem.title }}</a></p>
   {% endfor %}
 </div>
+
+<div class="home">
+  <h2> Latest Stories <h2>
+  {% assign reversed_posts = site.story | reverse %}
+  {% for story in reversed_posts %}
+      <p class="home_title"><a href="{{ site.baseurl }}{{ story.url }}">{{ story.title }}</a></p>
+  {% endfor %}
+</div>

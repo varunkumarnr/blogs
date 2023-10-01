@@ -29,6 +29,7 @@
           <nav>
             <a href="{{ site.baseurl }}/publications">Blogs</a>
             <a href="{{ site.baseurl }}/poetry">Poetry</a>
+            <a href="{{ site.baseurl }}/story">Story</a>
           </nav>
         </header>
       </div>
@@ -37,6 +38,12 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+
+    {% if site.paginate %}
+    <div class="centred-homepage-content">
+      {% include custom/paginator.html %}
+    </div>
+    {%- endif %}
 
     <div class="wrapper-footer">
       <div class="container">

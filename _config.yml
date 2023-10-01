@@ -37,13 +37,13 @@ footer-links:
 table_of_contents_header: "Jump to:"
 # post_end_promo: <i><b>Enjoyed this article? You'll like "<a href="https://jakeweeklee.substack.com">Jake Week Lee</a>", a weeklyish newsletter of articles & found media!</b></i>
 
-# giscus_repo: varunkumarnr/blogs
-# giscus_repo_id: R_kgDOKI8VLw
-# giscus_category: Announcements
-# giscus_category_id: DIC_kwDOKI8VL84CZwnZ
+giscus_repo: varunkumarnr/blogs
+giscus_repo_id: R_kgDOKI8VLw
+giscus_category: Announcements
+giscus_category_id: DIC_kwDOKI8VL84CZwnZ
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: blogs-boj1trkitr
+# disqus: blogs-boj1trkitr
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-5ZSSE9E3QN
@@ -61,10 +61,13 @@ baseurl: "/blogs"
 collections:
   publications:
     output: true
-    permalink: publications/:title
+    permalink: /publications/:title
   poetry:
     output: true
     permalink: /poetry/:title
+  story:
+    output: true
+    permalink: /story/:title
 
 #
 # !! You don't need to change any of the configuration flags below !!

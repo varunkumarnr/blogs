@@ -1,0 +1,36 @@
+---
+layout: page
+---
+
+<article class="post">
+  <div class="author">
+    {{page.chapter}} 
+  </div>
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }} | Written By: {{ page.author }}
+  </div>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+
+  {% if site.giscus_repo != blank? %}
+  <script src="https://giscus.app/client.js"
+    data-repo="{{ site.giscus_repo }}"
+    data-repo-id="{{ site.giscus_repo_id }}"
+    data-category="{{ site.giscus_category }}"
+    data-category-id="{{ site.giscus_category_id }}"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="bottom"
+    data-theme="preferred_color_scheme"
+    data-lang="en"
+    data-loading="lazy"
+    crossorigin="anonymous"
+    async>
+  </script>
+{% endif %}
+</article>

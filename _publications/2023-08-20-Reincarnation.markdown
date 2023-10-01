@@ -2,7 +2,7 @@
 layout: publications
 title: "Reincaranation"
 categories: philosophy
-permalink: "/:title"
+permalink: "/:categories/:title"
 collection: publications
 author:
   - Varun Kumar

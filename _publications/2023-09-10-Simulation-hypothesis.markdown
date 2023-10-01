@@ -2,7 +2,7 @@
 layout: publications
 title: "Simulation hypothesis, The answer to why?"
 categories: philosophy
-permalink: "/:title"
+permalink: "/:categories/:title"
 collection: publications
 author:
   - Varun Kumar

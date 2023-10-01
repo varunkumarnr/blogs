@@ -2,7 +2,7 @@
 layout: publications
 title: "I am Immortal"
 categories: Scientific
-permalink: "/:title"
+permalink: "/:categories/:title"
 collection: publications
 author:
   - Varun Kumar
