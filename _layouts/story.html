@@ -4,7 +4,6 @@ layout: page
 
 <style>
 .background {
-  position: relative;
   font-family: Poppins, sans-serif;
   background-image: url('{{ page.image }}');
   background-size: cover;
@@ -16,28 +15,27 @@ layout: page
   padding-left: 10%;
   padding-right: 10%;
   padding-bottom: 2%; /* Adjust the padding as needed */
-  backdrop-filter: blur(5px);
 }
-.background::before {
+/* .background::before {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('{{ page.image }}'); /* Use the same image */
-  filter: blur(1.5px); /* Adjust the blur amount as needed */
+  background-image: url('{{ page.image }}'); 
+  filter: blur(1.5px); 
   z-index: -1;
-}
+} */
 
 .title {
-  font-size: 3vw; /* Adjust the font size using viewport units */
+  font-size: 3vw; 
   font-weight: 500;
   background-color: #f5ebe0; 
 }
 
 .chapter {
-  font-size: 1.5vw; /* Adjust the font size using viewport units */
+  font-size: 1.5vw; 
   background-color: #f5ebe0; 
 }
 

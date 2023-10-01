@@ -1,7 +1,8 @@
 ---
 layout: poetry
-title: "Poem: Still hurts the same"
+title: "Still hurts the same"
 categories: Poetry
+image: images/Still_Hurts_same.jpg
 permalink: "/:categories/:title"
 collection: poetry
 author:
