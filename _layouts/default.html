@@ -11,6 +11,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -38,12 +39,6 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
-    {% if site.paginate %}
-    <div class="centred-homepage-content">
-      {% include custom/paginator.html %}
-    </div>
-    {%- endif %}
 
     <div class="wrapper-footer">
       <div class="container">
