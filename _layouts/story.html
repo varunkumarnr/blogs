@@ -83,8 +83,25 @@ layout: page
     {{ content }}
   </div>
 
+  <div class="pagenav">
+    {% if page.previous.url %}
+    <div class="wrapper" id="left">
+      <small><b>Previous</b> {{page.previous.date | date: "%b %-d, %Y"}}</small>
+      <br>
+      <a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}-{{page.previous.chapter}}</a>
+    </div>
+    {% endif %}
+    {% if page.next.url %}
+    <div class="wrapper" id="right">
+      <small>{{page.next.date | date: "%b %-d, %Y"}} <b>Next</b></small>
+      <br>
+      <a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.title}} - {{page.next.chapter}} &raquo;</a>
+    </div>
+    {% endif %}
+  </div>
 
-  {% if site.giscus_repo != blank? %}
+
+  <!-- {% if site.giscus_repo != blank? %}
   <script src="https://giscus.app/client.js"
     data-repo="{{ site.giscus_repo }}"
     data-repo-id="{{ site.giscus_repo_id }}"
@@ -101,5 +118,6 @@ layout: page
     crossorigin="anonymous"
     async>
   </script>
-{% endif %}
+{% endif %} -->
+{% include disqus.html %}
 </article>

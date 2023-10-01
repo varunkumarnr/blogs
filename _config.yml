@@ -43,7 +43,7 @@ giscus_category: Announcements
 giscus_category_id: DIC_kwDOKI8VL84CZwnZ
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-# disqus: blogs-boj1trkitr
+disqus: blogs-boj1trkitr
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-5ZSSE9E3QN

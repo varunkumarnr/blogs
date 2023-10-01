@@ -1,21 +1,106 @@
 ---
 layout: page
 ---
-
-<article class="blogs">
-  <div class="author">
-     -{{ page.author }}
-  </div>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% if site.giscus_repo != blank? %}
+<style>
+  .background {
+    font-family: Poppins, sans-serif;
+    background-image: url('{{ page.image }}');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:#001219; /* Text color on top of the image */
+    text-align: center;
+    padding-top: 20%; /* Adjust the padding as a percentage of the viewport height */
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%; /* Adjust the padding as needed */
+  }
+  /* .background::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('{{ page.image }}'); 
+    filter: blur(1.5px); 
+    z-index: -1;
+  } */
+  
+  .title {
+    font-size: 3vw; 
+    font-weight: 500;
+    background-color: #f5ebe0; 
+  }
+  
+  .chapter {
+    font-size: 1.5vw; 
+    background-color: #f5ebe0; 
+  }
+  
+  .chapter-date {
+    font-size: 1vw; /* Adjust the font size using viewport units */
+    background-color:#f5ebe0; 
+    font-style: italic;
+    padding-bottom: 5px;
+  }
+  @media (max-width: 768px) {
+    .background {
+      padding-top: 30%; /* Adjust the padding for mobile */
+      padding-left: 5%;
+      padding-right: 5%;
+    }
+  
+    .title {
+      font-size: 6vw; /* Adjust the font size for mobile */
+    }
+  
+    .chapter {
+      font-size: 3vw; /* Adjust the font size for mobile */
+    }
+  
+    .chapter-date {
+      font-size: 2vw; /* Adjust the font size for mobile */
+    }
+  }
+  </style>
+  
+  <article class="post">
+      <div class="background">
+          <div class="title">
+            {{ page.title }}
+          </div>
+          <div class="chapter">
+              {{ page.chapter }} 
+          </div>
+          <div class="chapter-date">
+          Written on {{ page.date | date: "%B %e, %Y" }} | Written By: {{ page.author }}
+          </div>
+      </div>
+  
+    <div class="entry">
+      {{ content }}
+    </div>
+  
+    <div class="pagenav">
+      {% if page.previous.url %}
+      <div class="wrapper" id="left">
+        <small><b>Previous</b> {{page.previous.date | date: "%b %-d, %Y"}}</small>
+        <br>
+        <a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}</a>
+      </div>
+      {% endif %}
+      {% if page.next.url %}
+      <div class="wrapper" id="right">
+        <small>{{page.next.date | date: "%b %-d, %Y"}} <b>Next</b></small>
+        <br>
+        <a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.title}} &raquo;</a>
+      </div>
+      {% endif %}
+    </div>
+  
+  
+    <!-- {% if site.giscus_repo != blank? %}
     <script src="https://giscus.app/client.js"
       data-repo="{{ site.giscus_repo }}"
       data-repo-id="{{ site.giscus_repo_id }}"
@@ -32,5 +117,7 @@ layout: page
       crossorigin="anonymous"
       async>
     </script>
-  {% endif %}
-</article>
+  {% endif %} -->
+  {% include disqus.html %}
+  </article>
+  

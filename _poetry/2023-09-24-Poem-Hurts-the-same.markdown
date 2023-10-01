@@ -2,7 +2,8 @@
 layout: poetry
 title: "Still hurts the same"
 categories: Poetry
-image: https://github.com/varunkumarnr/blogs/blob/af5c7cdb2a5352fbaeeda7ed6f669a2973e009d4/images/Still_Hurts_same.jpg
+image: https://github.com/varunkumarnr/blogs/blob/master/images/Still_Hurts_same.jpg?raw=true
+description: This heartfelt poem reflects the enduring pain of lost love and the bittersweet memories that continue to haunt.
 permalink: "/:categories/:title"
 collection: poetry
 author:
