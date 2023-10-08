@@ -46,7 +46,7 @@ So, what should the court decide? Should they let the king go free? If yes, it a
 
 **What defines morality** The question of "What defines morality" was raised by Socrates around 2400 years ago and remains unanswered to this day. It makes us wonder about the progress of humanity when such fundamental questions remain elusive. Despite this, we continue to work on developing laws and judicial systems.
 
-While people would debate and say there is no one single defination to morality I think everything in the world should have a defination, Unless you are "spiritual,"🧐 each person tends to create their own random definition of spirituality to make themselves feel better and ignore reality😅. Each of these definitions sound more absurd than the last. Common you and I both know there is only one universe you cant try do make your meanings and there is no deeper meaning.
+While people would debate and say there is no one single defination to morality I think everything in the world should have a defination, Unless you are "spiritual,"🧐 each person tends to create their own random definition of spirituality to make themselves feel better and ignore reality😅. Each of these definitions sound more absurd than the last. Common you and I both know there is only one universe you cant try to make your meanings and there is no deeper meaning.
 
 I think it can be defined **"Morality is a concept that encompasses principles and behaviors influenced by societal consensus, legal norms, individual judgment, and the pursuit of positive outcomes."**(I am most probably wrong and would probably get destroyed by Socrates in debate for this defination).
 
