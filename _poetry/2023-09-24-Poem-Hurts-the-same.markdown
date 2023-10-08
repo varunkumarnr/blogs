@@ -26,7 +26,7 @@ Your smile made the fresh roses look dull, <br>
 You took the flowers, told they smell wonderful, <br>
 I thought I just found an angel. <br>
 
-The same face that put a smile, now made my breathe weak, <br>
+The same face that put a smile, now made my breath weak, <br>
 Your angelic voice is now distinct, <br>
 Your everyday messages are now just memories, <br>
 Been a year but **still hurts the same**, now I don't have your shoulder to cry upon. <br>
