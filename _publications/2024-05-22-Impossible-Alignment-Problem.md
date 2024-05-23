@@ -13,7 +13,7 @@ meta: "Springfield"
 
 ## Introduction:
 
-After a tiresome day, you decide to take your mind off things and scroll through your phone. You open Google and **_WHAM!_** "New AI can predict your next move!" "Artificial General Intelligence achieved!" "Society crumbling under robot overlords!” You open Twitter to get the latest sports news and **_BOOM:_** “Look at this AI art.” “**_WHOMP WHOMP_** AI is taking my job.” “Latest AI trends.”
+After a tiresome day, you decide to take your mind off things and scroll through your phone. You open Google and **_WHAM!_** "New AI can predict your next move!" "Artificial General Intelligence achieved!" "Society crumbling under robot overlords!” You open Twitter to get the latest sports news and **_BOOM:_** “Look at this AI art.” “AI is taking my job.” “Latest AI trends.”
 
 Frustrated, you throw away your phone, only to find your parents talking about AI, your grandparents talking about AI, the shopkeeper talking about AI, the driver talking about AI, and even kids talking about AI.
 
