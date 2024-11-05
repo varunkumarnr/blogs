@@ -2,7 +2,7 @@
 layout: publications
 title: "Flawed world."
 categories: Travel
-image: https://unsplash.com/photos/photo-of-green-plant-WJd3rY9EQyU
+image: https://images.unsplash.com/photo-1527348294965-88d7e7410676?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 description: "My jorney to remote rural village."
 permalink: "/:categories/:title"
 collection: publications
@@ -11,7 +11,7 @@ author:
 meta: "Springfield"
 ---
 
-## prologue
+**Prologue:**
 
 I always wanted to get started on learning more about agriculture, and, surprise—you can’t learn agriculture just from reading books; you actually need to work on a farm. I live in the city and am not rich enough to afford a farm here, so I started looking at other options. Ram (not his real name), a distant family member, is a middleman between farmers and sellers in local markets—the guy who does the least work but earns the most out of the three. I asked Ram if he could help, and since I had some festival holidays coming up, it would be the perfect time to start learning. For some reason, Ram agreed and arranged for me to visit a rural village about 350 kilometers from the city. He even set up a place for me to stay with his close family members. They might be my distant family too, though I’m not really sure how that works.
 
@@ -25,15 +25,15 @@ I’m getting a bit sidetracked here. The purpose of writing this blog isn’t t
 
 In this short time, I’ve learned a lot of things, though not a single one is directly related to agriculture. I’m not sure how to structure this without turning it into a novel or a story, so I’ll try to keep it brief and simply share the lessons I learned, along with the experiences that led to each conclusion.
 
-## Day 1
+**Day 1**
 
 The whole first day, I just explored the fields and village. In the evening, I helped with picking flowers and putting them into baskets, which would be sent to the market the next day. Once we were done picking, we returned, had a nice dinner since it was Diwali, and then went to bed. That night, it rained, and because the roof is made of coconut leaves, the whole house was leaking. I remember they were more worried about me feeling uncomfortable than about themselves or their child, even though I kept telling them I was fine. Once the rain stopped, they cleaned up the floor and didn’t let me help. As the floor was still wet, a scorpion came crawling inside, which the five-year-old squashed with his school shoe. I felt so useless just watching all of this.
 
-## Day 2
+**Day 2**
 
 The next morning, I insisted on helping, so they let me take the milk to the dairy. When I got there with the boy, there was a small line since we arrived early. At the dairy, they measured the milk but said it was too warm or something—I’m not sure. The villagers behind me, probably noticing I was new to this (maybe from the way I was dressed or from me freaking out, not knowing what to do), helped me out and suggested I wait a few minutes and try again. They even let me cut to the front of the line after I’d waited 10 minutes—pretty sweet of them. This time, they accepted the milk. I also spoke to a few people and explained why I was there; they seemed quite happy about it, and a few even invited me to their homes.
 
-## Day 3
+**Day 3**
 
 Then I went to the farm, plucked tomatoes, sold them to Ram in the evening, and went home to sleep. The next day, Saturday, was my last day staying with them; I had to cut my stay short because I couldn’t get bus tickets for Sunday due to the festival holiday. So they bought chicken and a lungi for me, even though I’d never worn one before. I later realized they bought this from the money they earned working in the field the whole day before. We ate and then went to the field, where I learned how to distribute borewell water to the entire field. We returned home early, and soon it was time for me to leave.
 
