@@ -27,7 +27,7 @@ Market closes, and I spend the rest of the day counting my rupees.
 
 Listen, I dont know anything about stokes I lost all my money on trading and on last pennies. Wish there was something that could tell me what stocks to buy…..
 
-**Stock Recommender Algorithm?? System Design??**
+**ssStock Recommender Algorithm?? System Design??**
 
 I am an engineer and pretty okay at coding. I should be able to easily create an algorithm that will help me make the right investment choices. You might ask, “But Varun, you do not know anything about stocks or trading. How will you write the algorithm?”
 
